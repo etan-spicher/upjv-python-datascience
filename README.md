@@ -22,6 +22,7 @@ Python & Data Science réalisés sur Google Colab.
 | [TD7](td07_enonce.ipynb) | Étude de cas et mini-projet 1 | :white_check_mark: |
 | [TD8](td08_enonce.ipynb) | Pandas : agrégation et transformation | :x: |
 
+
 ## Crédits
 
 Cours de M. Guéry — Faculté d'Économie, UPJV
